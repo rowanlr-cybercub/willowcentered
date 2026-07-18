@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "willowcentered",
+  "compatibility_date": "2026-07-18",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "adobe"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
